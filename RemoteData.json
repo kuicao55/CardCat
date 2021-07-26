@@ -1,0 +1,22 @@
+{
+  "encodeKey": 12,
+  "sendMailPrice": {
+    "ticketPrice": 1,
+    "cardPrice": 5,
+    "letterPrice": 2
+  },
+  "sign": {
+    "note": "据说明天要涨价！",
+    "date": "2021年7月25日"
+  },
+  "newspaper": {
+    "number": "Vol.1",
+    "title": "小窗幽记",
+    "content": "数鸭子，输了一个大鸭子。",
+    "date": "2021年7月25日"
+  },
+  "coupon": {
+    "code": "test",
+    "moneyAmount": 10
+  }
+}
