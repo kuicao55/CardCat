@@ -1,22 +1,22 @@
 {
   "encodeKey": 12,
   "sendMailPrice": {
-    "ticketPrice": 1,
-    "cardPrice": 5,
-    "letterPrice": 2
+    "ticketPrice": 2,
+    "cardPrice": 6,
+    "letterPrice": 12
   },
   "sign": {
     "note": "据说明天要涨价！",
-    "date": "2021年7月25日"
+    "date": "2021年11月3日"
   },
   "newspaper": {
-    "number": "Vol.1",
-    "title": "测试一下",
-    "content": "数鸭子，输了一个大鸭子。",
-    "date": "2021年7月25日"
+    "number": "Vol.2",
+    "title": "猫邮局隆重开张",
+    "content": "热烈祝贺猫邮局隆重开业！",
+    "date": "2021年11月3日"
   },
   "coupon": {
-    "code": "test",
-    "moneyAmount": 10
+    "code": "gift",
+    "moneyAmount": 100
   }
 }
