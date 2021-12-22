@@ -17,6 +17,9 @@
   },
   "coupon": {
     "code": "kc975",
-    "moneyAmount": 10000
+    "moneyAmount": 10000,
+    "privateCode": "test1",
+    "privateAmount": 100,
+    "idList": ["CATCAT", "cd8712"]
   }
 }
