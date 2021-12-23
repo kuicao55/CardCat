@@ -16,10 +16,10 @@
     "date": "2021年12月15日"
   },
   "coupon": {
-    "code": "kc975",
-    "moneyAmount": 10000,
-    "privateCode": "test1",
+    "code": "gift",
+    "moneyAmount": 100,
+    "privateCode": "surprise",
     "privateAmount": 100,
-    "idList": ["CATCAT", "cd8712", "d6cajS"]
+    "idList": ["CATCAT", "3h9R28", "8B163s"]
   }
 }
