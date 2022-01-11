@@ -1,25 +1,25 @@
 {
   "encodeKey": 12,
   "sendMailPrice": {
-    "ticketPrice": 2,
-    "cardPrice": 6,
-    "letterPrice": 12
+    "ticketPrice": 5,
+    "cardPrice": 15,
+    "letterPrice": 10
   },
   "sign": {
-    "note": "猫邮正式营业!",
-    "date": "2021年12月29日"
+    "note": "财政困难，邮价飞涨，猫咪也没法子啊。",
+    "date": "2022年1月11日"
   },
   "newspaper": {
-    "number": "Vol.1",
-    "title": "开业大吉",
-    "content": "热烈祝贺猫邮正式在App Store上架啦，内测的朋友们可以去商店下载啦! 请大家多多关照小店生意，要是喜欢的话可以分享给亲朋好友!",
-    "date": "2021年12月29日"
+    "number": "Vol.2",
+    "title": "猫猫邮差总弄丢包裹？",
+    "content": "据本报记者报道，多位顾客声称猫猫邮差寄送包裹时很不小心，包裹被寄丢的情况时有发生。为此猫邮局在昨日公开道歉，并赠予顾客猫爪币兑换码【tips】。新的邮局管理系统也已上线，还请大家更新一下！至于问题会不会得到改善，“我也不知道了”猫猫店长如是说。",
+    "date": "2022年1月11日"
   },
   "coupon": {
-    "code": "holiday",
-    "moneyAmount": 100,
-    "privateCode": "surprise",
-    "privateAmount": 100,
+    "code": "tips",
+    "moneyAmount": 50,
+    "privateCode": "vip",
+    "privateAmount": 1000,
     "idList": ["CATCAT", "3h9R28", "8B163s"]
   }
 }
