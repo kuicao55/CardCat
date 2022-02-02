@@ -1,22 +1,22 @@
 {
   "encodeKey": 12,
   "sendMailPrice": {
-    "ticketPrice": 5,
-    "cardPrice": 15,
-    "letterPrice": 10
+    "ticketPrice": 2,
+    "cardPrice": 5,
+    "letterPrice": 8
   },
   "sign": {
-    "note": "财政困难，邮价飞涨，猫猫也没法子啊。",
-    "date": "2022年1月11日"
+    "note": "春节特惠! 输入【newyear】有惊喜!",
+    "date": "2022年2月2日"
   },
   "newspaper": {
-    "number": "Vol.2",
-    "title": "猫猫邮差总弄丢包裹？",
-    "content": "据本报记者报道，多位顾客声称猫猫邮差寄送包裹时很不小心，包裹被寄丢的情况时有发生。为此猫邮局在昨日公开道歉，并赠予顾客猫爪币兑换码【tips】。新的邮局管理系统也已上线，还请大家更新一下！至于问题会不会得到改善，“我也不知道了”猫猫店长如是说。",
-    "date": "2022年1月11日"
+    "number": "Vol.3",
+    "title": "春节特报",
+    "content": "正值新春佳节，祝福各位猫邮用户新年快乐，虎虎生威!下面插播一条简讯:“大年初一中国男足对阵越南压哨勇入一球，献上新春大礼，祖国各地张灯结彩，全国人民喜气洋洋，恭喜国足又创辉煌!”前方记者猫不灵报道。",
+    "date": "2022年2月2日"
   },
   "coupon": {
-    "code": "tips",
+    "code": "newyear",
     "moneyAmount": 50,
     "privateCode": "vip",
     "privateAmount": 1000,
