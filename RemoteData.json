@@ -2,22 +2,22 @@
   "encodeKey": 12,
   "sendMailPrice": {
     "ticketPrice": 5,
-    "cardPrice": 15,
+    "cardPrice": 10,
     "letterPrice": 10
   },
   "sign": {
-    "note": "抱歉!年后涨价。",
-    "date": "2022年2月18日"
+    "note": "新的码【catback】",
+    "date": "2022年4月26日"
   },
   "newspaper": {
-    "number": "Vol.4",
-    "title": "如何应对节后emo症状",
-    "content": "春节假期过后，孩子们回校上课，大人们返岗工作，猫猫们处理邮件，大家都很不好过。至于如何应对这种症状，本报记者猫失鬼有妙招:“打工苦，讨生活，打工不如偷摩托...*哔”。好了今天的报道就到这里，本报的猫咪们要去看谷爱凌夺金牌了!",
-    "date": "2022年2月18日"
+    "number": "Vol.5",
+    "title": "猫猫返工更新",
+    "content": "猫猫邮局员工为讨生计外出打工，长期翘班致使邮局年久失修。为了弥补广大用户朋友们，现强迫猫猫返工，预计一周内将有小更新上架，敬请期待。除此之外猫猫邮局将不定时在告示处发放兑换码，免除大家看广告之苦。最后，消除疫情，上海加油！",
+    "date": "2022年4月26日"
   },
   "coupon": {
-    "code": "newyear",
-    "moneyAmount": 50,
+    "code": "catback",
+    "moneyAmount": 100,
     "privateCode": "vip",
     "privateAmount": 1000,
     "idList": ["CATCAT", "3h9R28", "8B163s"]
