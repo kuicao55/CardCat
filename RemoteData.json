@@ -18,8 +18,8 @@
   "coupon": {
     "code": "catback",
     "moneyAmount": 100,
-    "privateCode": "vip",
-    "privateAmount": 1000,
-    "idList": ["CATCAT", "3h9R28", "8B163s"]
+    "privateCode": "vipvip",
+    "privateAmount": 100000,
+    "idList": ["CATCAT", "3h9R28", "8B163s", "055UPH"]
   }
 }
